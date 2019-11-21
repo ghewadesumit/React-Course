@@ -19,4 +19,8 @@ npx create-react-app <app-name>
 **Note:**  
 - Whenever the state is changed then render function is executed.
 
+- Function based components takes props as argument.
+
+-props : one of the most important about props is that i
+
 
