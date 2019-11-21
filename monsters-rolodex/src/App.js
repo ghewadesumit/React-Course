@@ -27,7 +27,7 @@ class App extends Component {
     console.log("Filtered Monsters are", filteredMonster);
     return (
       <div className="App">
-        <h1> Monster Rolodex</h1>
+        <h1 className="main-header"> Monster Rolodex</h1>
         <SearchBox
           placeholder="Search Monsters"
           handleChange={this.handleChange}
